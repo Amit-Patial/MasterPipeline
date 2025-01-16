@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Program__c.Organizer_email__c</members>
+        <members>Program__c.Total_Fees__c</members>
         <name>CustomField</name>
     </types>
     <types>
